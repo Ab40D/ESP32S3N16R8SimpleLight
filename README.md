@@ -3,7 +3,7 @@
 > A tiny ESP32 project that turns a boring light into a controllable one.
 > Plug it in. Upload the code. Connect. Control. Done. ⚡
 
-![ESP32 Simple Light](https://raw.githubusercontent.com/Ab40D/esp32-simple-light/main/image.png)
+![ESP32 Simple Light](/image.png)
 
 ## What is this?
 
